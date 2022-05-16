@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T06:20:45.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="_2H8jT6eDNhd3eNdFWa1" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T06:28:07.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Rpq2l2lI1Qcousms8jGb" version="18.0.3" type="github">
   <diagram id="_3HtI_OE_CnLbjIIxL0U" name="第 1 页">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,6 +14,9 @@
         </mxCell>
         <mxCell id="WfKt7YNtduD_fY_sLWLm-4" value="代打包包裹" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WfKt7YNtduD_fY_sLWLm-6" target="WfKt7YNtduD_fY_sLWLm-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WfKt7YNtduD_fY_sLWLm-6" value="代打包订单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="320" width="120" height="60" as="geometry" />
@@ -68,6 +71,27 @@
         </mxCell>
         <mxCell id="WfKt7YNtduD_fY_sLWLm-26" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WfKt7YNtduD_fY_sLWLm-27" target="WfKt7YNtduD_fY_sLWLm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-27" value="SKU明细" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-29" value="物流信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-31" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-32" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-33" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="611" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WfKt7YNtduD_fY_sLWLm-34" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="611" y="580" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

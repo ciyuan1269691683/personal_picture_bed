@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T06:26:48.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Oee0z2EqyOH85U0YFUpJ" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-16T06:29:51.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bbRSSatGr0o4as_dRbqk" version="20.0.4" type="github">
   <diagram id="ms5zZoXClKDJ1BqsMGg5" name="第 1 页">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,15 @@
         </mxCell>
         <mxCell id="C9IggNt1_Gd7g77s1nxK-18" value="shopee选品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9IggNt1_Gd7g77s1nxK-19" value="https://www.cas.mango.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9IggNt1_Gd7g77s1nxK-20" value="cas1:8443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9IggNt1_Gd7g77s1nxK-21" value="cas2:8443" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

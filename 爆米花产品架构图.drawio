@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T05:34:28.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X__INkejc1w0vpYh72Uo" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T05:41:19.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sxRF_sfHp8Qn_pKTzDQ1" version="24.5.4" type="github">
   <diagram name="第 1 页" id="hvREsb8r1cl1gpEjWpVE">
     <mxGraphModel dx="1026" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-26" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="230" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9XWKBzIaASIvJAbRW1I-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B9XWKBzIaASIvJAbRW1I-31" target="B9XWKBzIaASIvJAbRW1I-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-31" value="服务调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="290" width="120" height="40" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T05:51:29.722Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NjikM5r7DYPPnfwCPmKR" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T05:54:48.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7FXdZcX1YeCVY3BR-TQX" version="24.5.4" type="github">
   <diagram name="第 1 页" id="hvREsb8r1cl1gpEjWpVE">
     <mxGraphModel dx="1026" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,16 +95,16 @@
           <mxGeometry x="810" y="510" width="170" height="370" as="geometry" />
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-43" value="消息队列&lt;div&gt;RocketMQ&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="835" y="630" width="120" height="70" as="geometry" />
+          <mxGeometry x="835" y="605" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-44" value="分布式缓存&lt;div&gt;Redis&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="835" y="720" width="120" height="70" as="geometry" />
+          <mxGeometry x="835" y="663.4" width="120" height="37.6" as="geometry" />
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-45" value="全文检索&lt;div&gt;ElasticSearch&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="835" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="835" y="716" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-46" value="数据持久化&lt;div&gt;PolarDB MongoDB&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="835" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="835" y="541" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="510" width="340" height="370" as="geometry" />
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="B9XWKBzIaASIvJAbRW1I-63" value="自动拉起" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="830" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="B9XWKBzIaASIvJAbRW1I-64" value="对象存储&lt;div&gt;OSS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="780" width="120" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T17:51:41.202Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pJYd12rrUrYH4BWvxSNM" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T17:53:09.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="35nMscnoQDCtvZjkvcUx" version="24.6.2" type="github">
   <diagram name="第 1 页" id="AiqYF_WmjFbQxVtScKrS">
     <mxGraphModel dx="1853" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,6 +311,20 @@
         </mxCell>
         <mxCell id="m31QwKZy5Iz5yQksCK-m-90" value="服务发现/获取配置内容" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m31QwKZy5Iz5yQksCK-m-89">
           <mxGeometry x="0.2814" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31QwKZy5Iz5yQksCK-m-91" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Images.svg;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="479.25" width="132.07" height="121.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m31QwKZy5Iz5yQksCK-m-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.401;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.035;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m31QwKZy5Iz5yQksCK-m-91" target="m31QwKZy5Iz5yQksCK-m-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-490" y="500" as="sourcePoint" />
+            <mxPoint x="-440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m31QwKZy5Iz5yQksCK-m-93" value="API调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="m31QwKZy5Iz5yQksCK-m-92">
+          <mxGeometry x="-0.0135" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
